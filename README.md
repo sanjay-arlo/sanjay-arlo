@@ -1,63 +1,72 @@
+<div align="center">
+
 # Hi, I'm Sanjay Arlo 👋
 
 ### Business Analyst | Data Analyst
 
-I build practical, data-driven solutions that turn business questions into clear insights, dashboards, and decisions.
+<a href="https://github.com/sanjay-arlo">
+  <img src="https://img.shields.io/badge/GitHub-sanjay--arlo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 ## 🚀 About Me
 
-I’m focused on **Business Analysis and Data Analysis**, with an interest in understanding how data, customer behaviour, and business processes can be translated into measurable outcomes.
+I focus on **Business Analysis and Data Analysis**, turning business questions into structured requirements, meaningful KPIs, dashboards, and actionable insights.
 
-My work combines analytical thinking with business understanding across:
+My approach combines business understanding with analytical thinking across requirements analysis, process improvement, customer analysis, operational performance, and data visualisation.
 
-- Business requirements and problem solving
-- Data analysis and KPI development
-- Dashboard and data visualisation
-- Customer and operational analysis
-- Business insights and recommendations
+## 🧠 What I Do
 
-## 🎯 What I Work With
+- Business requirements and stakeholder analysis
+- Process mapping, gap analysis, and KPI definition
+- SQL, Excel, Python, and Power BI analysis
+- Dashboard design and data storytelling
+- Customer, operational, and performance analysis
+- Insight generation and business recommendations
+
+## 🛠️ Skills
 
 ### Business Analysis
-
 `Requirements Gathering` · `Stakeholder Analysis` · `Business Process Analysis` · `Process Mapping` · `Gap Analysis` · `KPI Definition` · `Agile` · `Jira`
 
-### Data Analysis
-
+### Data & BI
 `SQL` · `Excel` · `Python` · `Pandas` · `Power BI` · `DAX` · `Data Visualisation`
 
 ### Tools
-
-`Microsoft Excel` · `Power BI` · `MySQL` · `Jupyter Notebook` · `Streamlit` · `GitHub`
+`MySQL` · `Jupyter Notebook` · `Streamlit` · `GitHub`
 
 ## 📊 Featured Projects
 
 ### 🏙️ Chennai BA/DA Market Intelligence Dashboard
 
-An interactive case study analysing Chennai Business Analyst and Data Analyst job-listing-style data across roles, skills, salary bands, hiring hubs, industries, and work arrangements.
+Interactive case study exploring Chennai hiring patterns, skills, salary bands, hiring hubs, industries, and work arrangements.
 
 🔗 **[Live Interactive Dashboard](https://sanjay-arlo.github.io/chennai-ba-da-market-intelligence/)**  
-📁 **[View Project Repository](https://github.com/sanjay-arlo/chennai-ba-da-market-intelligence)**
+📁 **[Project Repository](https://github.com/sanjay-arlo/chennai-ba-da-market-intelligence)**
 
 ### 🚚 Blinkit Chennai Delivery Analysis
 
 Business-oriented delivery analysis focused on operational performance, delivery patterns, and dashboard-driven insights.
 
-📁 **[View Project Repository](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis)**
+📁 **[Project Repository](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis)**
 
 ### 🏫 School Administration System
 
-A database-backed administration project covering students, fees, hostel operations, and dashboard-style management workflows.
+Database-backed administration project covering students, fees, hostel operations, and management workflows.
 
-📁 **[View Project Repository](https://github.com/sanjay-arlo/school-administration-system)**
+📁 **[Project Repository](https://github.com/sanjay-arlo/school-administration-system)**
 
-## 📈 My Approach
+## 📈 How I Think
 
-**Business Problem → Data → Analysis → Insight → Recommendation**
+**Business Problem → Requirements → Data → Analysis → Insight → Recommendation**
 
-I focus on more than producing charts. The goal is to identify the business question, define useful metrics, analyse the data, and communicate what action the findings support.
+I focus on answering the business question behind the data, not simply producing charts.
 
-## 🧠 Areas of Interest
+## 🎯 Areas of Interest
 
 - Business Intelligence
 - Business Process Analysis
@@ -66,7 +75,7 @@ I focus on more than producing charts. The goal is to identify the business ques
 - Dashboard Design
 - Data-Driven Decision Making
 
-## 🔗 Connect With Me
+## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-arlo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
