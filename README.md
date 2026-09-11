@@ -4,6 +4,8 @@
 
 ### Business Analyst | Data Analyst
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="360" alt="Coding animation" />
+
 <a href="https://github.com/sanjay-arlo">
   <img src="https://img.shields.io/badge/GitHub-sanjay--arlo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
