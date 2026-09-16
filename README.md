@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SANJAY%20ARLO&fontSize=38&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&color=0F766E" width="100%" alt="Sanjay Arlo" />
-
-### BUSINESS ANALYST · DATA ANALYST
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=BUSINESS%20ANALYST%20%26%20DATA%20ANALYST&fontSize=30&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&color=0F766E" width="100%" alt="Business Analyst and Data Analyst" />
 
 **Turning business questions into clear analysis, useful dashboards, and decision-ready insights.**
 
