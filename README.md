@@ -65,7 +65,9 @@ I focus on the **decision behind the dashboard**, not just the dashboard itself.
 
 **B.Com (Information Systems Management)** · University of Madras
 
-Currently working with **data annotation and AI-training workflows** while building a transition into Business Analyst / Data Analyst roles.
+**Data Analyst · Cameo Corporate Services**
+
+As a Data Analyst at Cameo Corporate Services, I focus on **transforming raw data into actionable business insights while ensuring the highest standards of data integrity and operational efficiency.** I collaborate with cross-functional teams to streamline data workflows and support data-driven decision-making.
 
 ## Connect
 
