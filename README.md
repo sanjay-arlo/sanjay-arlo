@@ -1,24 +1,24 @@
 <div align="center">
 
-# SANJAY ARLO
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=SANJAY%20ARLO&fontSize=38&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&color=0F766E" width="100%" alt="Sanjay Arlo" />
 
-**Business Analyst · Data Analyst**
+### BUSINESS ANALYST · DATA ANALYST
 
-Turning business questions into **clear analysis, useful dashboards, and decision-ready insights.**
+**Turning business questions into clear analysis, useful dashboards, and decision-ready insights.**
 
 <br>
 
 <a href="https://github.com/sanjay-arlo">
-  <img src="https://cdn.simpleicons.org/github/334155" width="22" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/334155" width="24" alt="GitHub" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="https://cdn.simpleicons.org/linkedin/0F766E" width="22" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3600&pause=1400&color=0F766E&center=true&vCenter=true&width=560&lines=Business+Analysis;Data+Visualisation;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+business+problem+to+decision" alt="Animated profile tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=15&duration=3600&pause=1400&color=0F766E&center=true&vCenter=true&width=620&lines=Business+Analysis;Data+Visualisation;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+business+problem+to+decision" alt="Animated profile tagline" />
 
 </div>
 
@@ -48,13 +48,25 @@ My portfolio focuses on **operations, customer analytics, business intelligence,
 | **Blinkit Chennai Delivery Analysis** | Delivery performance, SLA patterns, location-level variation, and operational insights | [Repo](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis) |
 | **School Administration System** | Database-backed workflows for students, fees, hostel operations, and administration | [Repo](https://github.com/sanjay-arlo/school-administration-system) |
 
-## Stack
+## Analytics stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" height="38" alt="Python, MySQL, Excel, Power BI" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="32" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="32" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" alt="MySQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="32" alt="Microsoft Excel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="32" alt="Power BI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="32" alt="Git" />
 </p>
 
-<sub>SQL · Excel · Power BI · DAX · Python · Pandas · Data Visualisation</sub>
+<sub>Python · Pandas · NumPy · SQL / MySQL · Excel · Power BI · DAX · Data Visualisation</sub>
 
 ## Analytical approach
 
@@ -75,7 +87,7 @@ Currently working with **data annotation and AI-training workflows** while build
 </a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="https://cdn.simpleicons.org/linkedin/0F766E" width="20" alt="LinkedIn" /> LinkedIn
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" alt="LinkedIn" /> LinkedIn
 </a>
 
 <br><br>
