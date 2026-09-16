@@ -9,16 +9,16 @@ Turning business questions into **clear analysis, useful dashboards, and decisio
 <br>
 
 <a href="https://github.com/sanjay-arlo">
-  <img src="https://cdn.simpleicons.org/github/334155" width="24" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/334155" width="22" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
-  <img src="https://cdn.simpleicons.org/linkedin/0F766E" width="24" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/linkedin/0F766E" width="22" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3500&pause=1200&color=0F766E&center=true&vCenter=true&width=520&lines=Business+Analysis;Data+Visualisation;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+business+problem+to+decision" alt="Animated skills line" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3600&pause=1400&color=0F766E&center=true&vCenter=true&width=560&lines=Business+Analysis;Data+Visualisation;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+business+problem+to+decision" alt="Animated profile tagline" />
 
 </div>
 
@@ -28,70 +28,56 @@ Turning business questions into **clear analysis, useful dashboards, and decisio
 
 I work at the intersection of **business analysis and data** — translating business questions into structured requirements, KPIs, analysis, dashboards, and practical recommendations.
 
-My portfolio focuses on **operations, customer analytics, business intelligence, and decision support** rather than technology for its own sake.
+My portfolio focuses on **operations, customer analytics, business intelligence, and decision support**.
 
-## What I work with
+## Capabilities
 
-| Business Analysis | Data & BI |
-| --- | --- |
-| Requirements analysis | SQL / MySQL |
-| Process & gap analysis | Excel |
-| KPI definition | Power BI / DAX |
-| Stakeholder thinking | Python / Pandas |
-| Business storytelling | Data visualisation |
+| Business Analysis | Data & BI | Decision Support |
+| --- | --- | --- |
+| Requirements analysis | SQL / MySQL | Operational performance |
+| Process & gap analysis | Excel | Customer analysis |
+| KPI definition | Power BI / DAX | Profitability |
+| Stakeholder thinking | Python / Pandas | Procurement |
+| Business storytelling | Data visualisation | Market intelligence |
 
 ## Selected work
 
-### Chennai BA / DA Market Intelligence
+| Project | Focus | Links |
+| --- | --- | --- |
+| **Chennai BA / DA Market Intelligence** | Hiring trends, skills, salary bands, locations, industries, and work arrangements | [Dashboard](https://sanjay-arlo.github.io/chennai-ba-da-market-intelligence/) · [Repo](https://github.com/sanjay-arlo/chennai-ba-da-market-intelligence) |
+| **Blinkit Chennai Delivery Analysis** | Delivery performance, SLA patterns, location-level variation, and operational insights | [Repo](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis) |
+| **School Administration System** | Database-backed workflows for students, fees, hostel operations, and administration | [Repo](https://github.com/sanjay-arlo/school-administration-system) |
 
-**Hiring-market analysis** covering roles, skills, salary bands, locations, industries, and work arrangements.
+## Stack
 
-→ [Live dashboard](https://sanjay-arlo.github.io/chennai-ba-da-market-intelligence/) · [Repository](https://github.com/sanjay-arlo/chennai-ba-da-market-intelligence)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" height="38" alt="Python, MySQL, Excel, Power BI" />
+</p>
 
-### Blinkit Chennai Delivery Analysis
-
-**Operations analytics** focused on delivery performance, SLA patterns, location-level variation, and decision support.
-
-→ [Repository](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis)
-
-### School Administration System
-
-**Database-backed business application** covering student, fee, hostel, and administrative workflows.
-
-→ [Repository](https://github.com/sanjay-arlo/school-administration-system)
+<sub>SQL · Excel · Power BI · DAX · Python · Pandas · Data Visualisation</sub>
 
 ## Analytical approach
 
-```text
-Business question
-       ↓
-Requirements & KPIs
-       ↓
-Data preparation
-       ↓
-Analysis
-       ↓
-Visualisation
-       ↓
-Insight
-       ↓
-Decision support
-```
+**Business question → requirements → data → analysis → visualisation → insight → decision support**
 
-## Focus areas
+I focus on the **decision behind the dashboard**, not just the dashboard itself.
 
-**Business Intelligence** · **Operations Analytics** · **Customer Analytics** · **Process Analysis** · **Dashboard Design** · **Data Storytelling**
-
-## Education
+## Background
 
 **B.Com (Information Systems Management)** · University of Madras
 
+Currently working with **data annotation and AI-training workflows** while building a transition into Business Analyst / Data Analyst roles.
+
 ## Connect
 
-<a href="https://github.com/sanjay-arlo">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="https://github.com/sanjay-arlo">
+  <img src="https://cdn.simpleicons.org/github/334155" width="20" alt="GitHub" /> GitHub
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">
+  <img src="https://cdn.simpleicons.org/linkedin/0F766E" width="20" alt="LinkedIn" /> LinkedIn
+</a>
 
-<br>
+<br><br>
 
-<sub>Built around clarity, evidence, and useful decisions.</sub>
+<sub>Clarity · Evidence · Useful decisions</sub>
