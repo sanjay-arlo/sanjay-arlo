@@ -1,22 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=BUSINESS%20ANALYST%20%26%20DATA%20ANALYST&fontSize=30&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn&color=0F766E" width="100%" alt="Business Analyst and Data Analyst" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=1100&color=0F766E&center=true&vCenter=true&width=720&height=70&lines=BUSINESS+ANALYST+%7C+DATA+ANALYST;Turning+data+into+decision-ready+insights" alt="Business Analyst and Data Analyst animated heading" />
 
-**Turning business questions into clear analysis, useful dashboards, and decision-ready insights.**
+**SQL · Excel · Power BI · Python · Data Visualisation**
+
+Turning business questions into **clear analysis, useful dashboards, and decision-ready insights.**
 
 <br>
 
-<a href="https://github.com/sanjay-arlo">
-  <img src="https://cdn.simpleicons.org/github/334155" width="24" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=15&duration=3600&pause=1400&color=0F766E&center=true&vCenter=true&width=620&lines=Business+Analysis;Data+Visualisation;SQL+%7C+Excel+%7C+Power+BI+%7C+Python;From+business+problem+to+decision" alt="Animated profile tagline" />
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay-arlo)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
@@ -49,22 +43,17 @@ My portfolio focuses on **operations, customer analytics, business intelligence,
 ## Analytics stack
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="32" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="32" alt="Pandas" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="32" alt="NumPy" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" alt="MySQL" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="32" alt="Microsoft Excel" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="32" alt="Power BI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" alt="Git" />
-</p>
 
-<sub>Python · Pandas · NumPy · SQL / MySQL · Excel · Power BI · DAX · Data Visualisation</sub>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+[![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![DAX](https://img.shields.io/badge/DAX-5B5EA6?style=flat-square&logo=microsoft&logoColor=white)](#)
+
+</p>
 
 ## Analytical approach
 
@@ -80,13 +69,8 @@ Currently working with **data annotation and AI-training workflows** while build
 
 ## Connect
 
-<a href="https://github.com/sanjay-arlo">
-  <img src="https://cdn.simpleicons.org/github/334155" width="20" alt="GitHub" /> GitHub
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" alt="LinkedIn" /> LinkedIn
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjay-arlo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 <br><br>
 
