@@ -1,63 +1,47 @@
-# Hi, I'm Sanjay Arlo 👋
+# Sanjay Arlo
 
-### Business Analyst | Data Analyst
+**Business Analyst · Data Analyst**  
+SQL · Excel · Power BI · Python
 
-I turn business questions into structured analysis, measurable KPIs, dashboards, and decision-ready insights.
-
-## 🚀 About Me
-
-I focus on **Business Analysis and Data Analysis**, with practical work across requirements thinking, process analysis, operational performance, customer analysis, SQL, Excel, Python, Power BI, and dashboard storytelling.
-
-My portfolio is built around showing the complete path from **business problem → data → analysis → insight → recommendation**.
-
-## 🧠 Core Capabilities
-
-### Business Analysis
-`Requirements Gathering` · `Stakeholder Analysis` · `Business Process Analysis` · `Process Mapping` · `Gap Analysis` · `KPI Definition` · `Agile` · `Jira`
-
-### Data & BI
-`SQL` · `Excel` · `Python` · `Pandas` · `Power BI` · `DAX` · `Data Visualisation`
-
-### Tools
-`MySQL` · `Jupyter Notebook` · `Streamlit` · `GitHub`
-
-## 📊 Featured Projects
-
-### 🏙️ Chennai BA/DA Market Intelligence Dashboard
-Interactive case study exploring hiring patterns, skills, salary bands, hiring hubs, industries, and work arrangements.
-
-🔗 **[Live Interactive Dashboard](https://sanjay-arlo.github.io/chennai-ba-da-market-intelligence/)**  
-📁 **[Project Repository](https://github.com/sanjay-arlo/chennai-ba-da-market-intelligence)**
-
-### 🚚 Blinkit Chennai Delivery Analysis
-Operational analysis focused on delivery performance, SLA patterns, location-level variation, and dashboard-driven decision support.
-
-📁 **[Project Repository](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis)**
-
-### 🏫 School Administration System
-Database-backed administration project covering student, fee, hostel, and management workflows.
-
-📁 **[Project Repository](https://github.com/sanjay-arlo/school-administration-system)**
-
-## 📈 How I Think
-
-**Business Problem → Requirements → Data → Analysis → Insight → Recommendation**
-
-I focus on answering the business question behind the data, not simply producing charts.
-
-## 🎯 Areas of Interest
-
-- Business Intelligence
-- Business Process Analysis
-- Customer Behaviour Analytics
-- Operations & Performance Analytics
-- Dashboard Design
-- Data-Driven Decision Making
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay-arlo)
+I turn business questions into structured analysis, measurable KPIs, clear dashboards, and decision-ready insights.
 
 ---
 
-⭐ Thanks for visiting my profile.
+## Selected work
+
+| Project | Focus | Link |
+|---|---|---|
+| **Chennai BA/DA Market Intelligence** | Hiring trends, skills, salary bands, locations, industries, and work arrangements | [Dashboard](https://sanjay-arlo.github.io/chennai-ba-da-market-intelligence/) · [Repository](https://github.com/sanjay-arlo/chennai-ba-da-market-intelligence) |
+| **Blinkit Chennai Delivery Analysis** | Delivery performance, SLA patterns, location-level variation, and operational insights | [Repository](https://github.com/sanjay-arlo/blinkit-chennai-delivery-analysis) |
+| **School Administration System** | Database-backed workflows for students, fees, hostel operations, and administration | [Repository](https://github.com/sanjay-arlo/school-administration-system) |
+
+More projects are available on my [GitHub profile](https://github.com/sanjay-arlo).
+
+## What I work on
+
+**Business analysis**  
+Requirements · process analysis · stakeholder thinking · gap analysis · KPI definition
+
+**Data & BI**  
+SQL · Excel · Power BI · DAX · Python · Pandas · data visualisation
+
+**Decision support**  
+Operational performance · customer analysis · profitability · procurement · market intelligence
+
+## Approach
+
+**Business problem → requirements → data → analysis → insight → recommendation**
+
+I focus on the decision behind the dashboard, not just the dashboard itself.
+
+## Background
+
+I hold a **B.Com (Information Systems Management)** and currently work with data annotation and AI-training workflows while building a transition into Business Analyst / Data Analyst roles.
+
+## Connect
+
+[GitHub](https://github.com/sanjay-arlo) · [LinkedIn](https://www.linkedin.com/)
+
+---
+
+*Portfolio focused on practical business analysis, data visualisation, and decision support.*
